@@ -1,0 +1,13 @@
+#first-h{
+    text-align: center;
+    color: rgb(126, 16, 16);
+
+}
+#first-pic{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#first-div{
+    color: blueviolet;
+}

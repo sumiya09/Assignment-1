@@ -1,0 +1,33 @@
+ #first-h{
+    text-align: center;
+    color: rgb(116, 10, 11);
+    background-color: rgb(240, 240, 174);
+ }
+
+ .first-p{
+    text-align: center;
+    color: blue;
+    background-color: azure;
+ }
+ #first-pic{
+   margin-left: auto; 
+   margin-right: auto;
+   display: block;
+   width: 800px;
+ }
+
+#second-h{
+    text-align: center;
+    color: brown;
+    background-color: rgb(239, 239, 152);
+
+}
+.second-p{
+    text-align: center;
+    color: blue;
+    background-color: azure;
+}
+#first-div{
+    text-align:justify;
+    color: rgb(108, 9, 9); 
+    background-color: beige;}
